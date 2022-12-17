@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\WindoesFroms1lesson3\CalculaterApp\bin\Debug\CalculaterApp.exe.config
+C:\Users\PC\source\repos\WindoesFroms1lesson3\CalculaterApp\bin\Debug\CalculaterApp.exe
+C:\Users\PC\source\repos\WindoesFroms1lesson3\CalculaterApp\bin\Debug\CalculaterApp.pdb
+C:\Users\PC\source\repos\WindoesFroms1lesson3\CalculaterApp\obj\Debug\CalculaterApp.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\WindoesFroms1lesson3\CalculaterApp\obj\Debug\CalculaterApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\WindoesFroms1lesson3\CalculaterApp\obj\Debug\CalculaterApp.Properties.Resources.resources
+C:\Users\PC\source\repos\WindoesFroms1lesson3\CalculaterApp\obj\Debug\CalculaterApp.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\WindoesFroms1lesson3\CalculaterApp\obj\Debug\CalculaterApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WindoesFroms1lesson3\CalculaterApp\obj\Debug\CalculaterApp.exe
+C:\Users\PC\source\repos\WindoesFroms1lesson3\CalculaterApp\obj\Debug\CalculaterApp.pdb
+C:\Users\PC\source\repos\WindoesFroms1lesson3\CalculaterApp\obj\Debug\CalculaterApp.Form1.resources

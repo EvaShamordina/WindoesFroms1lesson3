@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{35379495-30A9-4FBE-B81F-F392E92E080E}</ProjectGuid>
+    <ProjectGuid>{02718BDB-9E7C-40E6-B54C-6B6D14358318}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>HW1_8</RootNamespace>
-    <AssemblyName>HW1_8</AssemblyName>
+    <RootNamespace>CalculaterApp</RootNamespace>
+    <AssemblyName>CalculaterApp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
